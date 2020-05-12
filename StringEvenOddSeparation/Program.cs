@@ -15,6 +15,7 @@ namespace StringEvenOddSeparation
             {
                 inputStrings.Add(Console.ReadLine());
             }
+            Console.WriteLine("Outline");
             foreach(var item in inputStrings)
             {
                 string evenletters = null,oddletters = null;
